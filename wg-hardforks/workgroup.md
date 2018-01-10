@@ -21,11 +21,20 @@ Prototcol upgrades every six months at Median Time Past timestamps. Code and fea
 
 ## Upcoming Dates
 
-[Feature Freeze] February 15, 2018
-[Hardfork] May 15, 2018 (timestamp: 1526400000)
-[Feature Freeze] August 15, 2018
-[Hardfork] November 15, 2018 (timestamp: 1542300000)
+* **Feb 15, 2018**—Feature Freeze
+
+* **May 15, 2018**—Hardfork
+  
+  _(Timestamp: `1526400000`)_
+
+* **Aug 15, 2018**—Feature Freeze
+
+* **Nov 15, 2018**—Hardfork
+  
+  _(Timestamp: `1542300000`)_
 
 ## Past Dates
 
-[Hardfork] November 13, 2017 (timestamp: 1510600000)
+* **Nov 13, 2017**—Hardfork
+  
+  _(Timestamp: `1510600000`)_
