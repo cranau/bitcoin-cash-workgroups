@@ -5,21 +5,24 @@ hardforks will be done on a regular basis going forward.
 
 # Communication
 
-* [Telegram Group](https://t.me/joinchat/AAAAAEU12wV25KF47Z6igg)
+* [Telegram Group](https://t.me/joinchat/HCYr50he2qnG83280xLUfw)
 
+# Officers
+
+ * Chairperson:
+ * Meeting Reporter:
+ * Membership Coordinator:
+ 
 # Interested Parties
 
 - Amaury Sechet, @deadalnix, Bitcoin ABC
-
-# Facilitator
-
 - Christopher Ames, @cranau
+- Chris Pacia, chris@ob1.io, OpenBazaar
+- Jason Cox, jasonbcox
 
 # Schedule
 
 Prototcol upgrades every six months at Median Time Past timestamps. Code and features to be included in the upgrade will be finalized three months prior to the upgrade.
-
-
 
 ## Upcoming Dates
 

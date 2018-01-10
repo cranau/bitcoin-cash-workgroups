@@ -5,8 +5,15 @@ adjustments and implmenting them on the Bitcoin Cash.
 
 # Communication
 
-* [Telegram Group](https://t.me/joinchat/AAAAAERjh_ROwe8aohSKIA)
+* [Telegram Group](https://t.me/joinchat/HCYr506_9oNIjmWgXh_kyA)
+
+# Officers
+
+ * Chairperson:
+ * Meeting Reporter:
+ * Membership Coordinator:
 
 # Interested Parties
 
 - Shammah Chancellor, @schancel, Bitcoin ABC
+- Tom Harding, @dgenr8, Bitcoin XT
