@@ -19,6 +19,8 @@ hardforks will be done on a regular basis going forward.
 
 Prototcol upgrades every six months at Median Time Past timestamps. Code and features to be included in the upgrade will be finalized three months prior to the upgrade.
 
+
+
 ## Upcoming Dates
 
 * **Feb 15, 2018**—Feature Freeze
@@ -38,3 +40,9 @@ Prototcol upgrades every six months at Median Time Past timestamps. Code and fea
 * **Nov 13, 2017**—Hardfork
   
   _(Timestamp: `1510600000`)_
+  
+  [Bitcoin ABC Announcement](https://www.bitcoinabc.org/november)
+  
+  [Bitcoin ABC Medium Term Development Plan](https://www.bitcoinabc.org/bitcoin-abc-medium-term-development)
+  
+  [nChain Development & Testing Accord](https://nchain.com/en/blog/bitcoin-cash-development-testing-accord/)
